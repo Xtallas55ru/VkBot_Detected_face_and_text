@@ -1,0 +1,1 @@
+# VkBot_Detected_face_and_text
